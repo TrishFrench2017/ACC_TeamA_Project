@@ -1,0 +1,55 @@
+
+{ "qId": "q001", "qText": "Who is the director of The Godfather?", "answers": ["Francis Ford Coppola"], "wrong": ["Christopher Nolan", "Stanley Kubrick", "David Fincher"] }
+{ "qId": "q002", "qText": "How long is The Godfather?", "answers": ["178.0"], "wrong": ["123.0", "199.0", "221.0"] }
+{ "qId": "q003", "qText": "How big was the budget of The Godfather?", "answers": ["6000000.0"], "wrong": ["93000000.0", "13000000.0", "19000000.0"] }
+{ "qId": "q004", "qText": "What was the release date of The Godfather?", "answers": ["1972-03-15"], "wrong": ["1970-03-15", "1980-03-15", "1965-03-15"] }
+{ "qId": "q005", "qText": "What is the rating of The Godfather", "answers": ["R"], "wrong": ["PG-13", "PG", "G"] }
+
+{ "qId": "q006", "qText": "Who is the director of The Lord of the Rings: The Fellowship of the Ring?", "answers": ["Peter Jackson"], "wrong": ["Christopher Nolan", "George Lucas", "James Cameron"] }
+{ "qId": "q007", "qText": "How long is The Lord of the Rings: The Fellowship of the Ring?", "answers": ["228.0"], "wrong": ["119.0", "199.0", "158.0"] }
+{ "qId": "q008", "qText": "How big was the budget of The Lord of the Rings: The Fellowship of the Ring?", "answers": ["93000000.0"], "wrong": ["6000000.0", "13000000.0", "19000000.0"] }
+{ "qId": "q009", "qText": "What was the release date of The Lord of the Rings: The Fellowship of the Ring?", "answers": ["2001-12-10"], "wrong": ["2003-12-10", "2005-12-10", "2007-12-10"] }
+{ "qId": "q010", "qText": "What is the rating of The Lord of the Rings: The Fellowship of the Ring", "answers": ["PG-13"], "wrong": ["R", "PG", "G"] }
+
+
+
+
+{ "qId": "q011", "qText": "Who is the director of Star Wars: Episode IV - A New Hope?", "answers": ["George Lucas"], "wrong": ["Christopher Nolan", "Stanley Kubrick", "Francis Ford Coppola"] }
+{ "qId": "q012", "qText": "How long is Star Wars: Episode IV - A New Hope?", "answers": ["125.0"], "wrong": ["89.0", "141.0", "201.0"] }
+{ "qId": "q013", "qText": "How big was the budget of Star Wars: Episode IV - A New Hope?", "answers": ["13000000.0"], "wrong": ["93000000.0", "20000000.0", "19000000.0"] }
+{ "qId": "q014", "qText": "What was the release date of Star Wars: Episode IV - A New Hope?", "answers": ["1977-05-25"], "wrong": ["1971-05-25", "1987-05-25", "1981-05-25"] }
+{ "qId": "q015", "qText": "What is the rating of Star Wars: Episode IV - A New Hope", "answers": ["PG"], "wrong": ["R", "PG-13", "G"] }
+
+{ "qId": "q016", "qText": "Who is the director of Raiders of the Lost Ark?", "answers": ["Steven Spielberg"], "wrong": ["George Lucas", "Martin Scorsese", "Christopher Nolan"] }
+{ "qId": "q017", "qText": "How long is Raiders of the Lost Ark?", "answers": ["115.0"], "wrong": ["99.0", "134.0", "158.0"] }
+{ "qId": "q018", "qText": "How big was the budget of Raiders of the Lost Ark?", "answers": ["20000000.0"], "wrong": ["93000000.0", "13000000.0", "19000000.0"] }
+{ "qId": "q019", "qText": "What was the release date of Raiders of the Lost Ark?", "answers": ["1981-06-12"], "wrong": ["1984-06-12", "1978-06-12", "1986-06-12"] }
+{ "qId": "q020", "qText": "What is the rating of Raiders of the Lost Ark", "answers": ["PG"], "wrong": ["R", "PG-13", "G"] }
+
+
+
+{ "qId": "q021", "qText": "Who is the director of The Silence of the Lambs?", "answers": ["Jonathan Demme"], "wrong": ["George Lucas", "Stanley Kubrick", "Christopher Nolan"] }
+{ "qId": "q022", "qText": "How long is The Silence of the Lambs?", "answers": ["118.0"], "wrong": ["91.0", "191.0", "228.0"] }
+{ "qId": "q023", "qText": "How big was the budget of The Silence of the Lambs?", "answers": ["19000000.0"], "wrong": ["93000000.0", "13000000.0", "806947.0"] }
+{ "qId": "q024", "qText": "What was the release date of The Silence of the Lambs?", "answers": ["1991-01-30"], "wrong": ["1988-01-30", "1994-01-30", "2000-01-30"] }
+{ "qId": "q025", "qText": "What is the rating of The Silence of the Lambs", "answers": ["R"], "wrong": ["PG-13", "PG", "G"] }
+
+{ "qId": "q026", "qText": "Who is the director of Psycho?", "answers": ["Alfred Hitchcock"], "wrong": ["Orson Welles", "Stanley Kubrick", "Christopher Nolan"] }
+{ "qId": "q027", "qText": "How long is Psycho?", "answers": ["108.0"], "wrong": ["135.0", "181.0", "201.0"] }
+{ "qId": "q028", "qText": "How big was the budget of Psycho?", "answers": ["806947.0"], "wrong": ["93000000.0", "1300000.0", "1900000.0"] }
+{ "qId": "q029", "qText": "What was the release date of Psycho?", "answers": ["1960-06-16"], "wrong": ["1955-06-16", "1949-06-16", "1968-06-16"] }
+{ "qId": "q030", "qText": "What is the rating of Psycho", "answers": ["R"], "wrong": ["PG-13", "PG", "G"] }
+
+
+
+{ "qId": "q031", "qText": "Who is the director of Terminator 2: Judgment Day?", "answers": ["James Cameron"], "wrong": ["George Lucas", "Stanley Kubrick", "Christopher Nolan"] }
+{ "qId": "q032", "qText": "How long is Terminator 2: Judgment Day?", "answers": ["154.0"], "wrong": ["123.0", "199.0", "221.0"] }
+{ "qId": "q033", "qText": "How big was the budget of Terminator 2: Judgment Day?", "answers": ["100000000.0"], "wrong": ["18500000.0", "13000000.0", "19000000.0"] }
+{ "qId": "q034", "qText": "What was the release date of Terminator 2: Judgment Day?", "answers": ["1991-07-01"], "wrong": ["1995-07-01", "1988-07-01", "1999-07-01"] }
+{ "qId": "q035", "qText": "What is the rating of Terminator 2: Judgment Day", "answers": ["R"], "wrong": ["PG-13", "PG", "G"] }
+
+{ "qId": "q036", "qText": "Who is the director of Aliens?", "answers": ["James Cameron"], "wrong": ["George Lucas", "Stanley Kubrick", "Martin Scorsese"] }
+{ "qId": "q037", "qText": "How long is Aliens?", "answers": ["137.0"], "wrong": ["120.0", "109.0", "154.0"] }
+{ "qId": "q038", "qText": "How big was the budget of Aliens?", "answers": ["18500000.0"], "wrong": ["93000000.0", "13000000.0", "100000000.0"] }
+{ "qId": "q039", "qText": "What was the release date of Aliens?", "answers": ["1986-07-18"], "wrong": ["1982-07-18", "1990-07-18", "1993-07-18"] }
+{ "qId": "q040", "qText": "What is the rating of Aliens", "answers": ["R"], "wrong": ["PG-13", "PG", "G"] }
