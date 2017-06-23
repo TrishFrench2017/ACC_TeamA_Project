@@ -1,0 +1,28 @@
+.restart{
+    position:relative;
+    right:35px;
+    top:12px;
+}
+.glyph {
+position:relative;
+right:30px;
+top:12px;
+}
+.form{
+    position:relative;
+    right:410px;
+}
+.navbar-brand{
+    letter-spacing: 2.5px;
+}
+.navbar-fixed-top{
+    opacity: .95;
+}
+.submit{
+    color:grey;
+    background-color:orange;
+}
+.dropdown{
+    position:relative;
+    right:20px;
+}

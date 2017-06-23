@@ -1,0 +1,35 @@
+.jumbotron{
+height:800px;
+}
+h1{
+    text-align: center;
+}
+.chooser{
+    text-align: center;
+}
+.selector{
+    text-align: center;
+}
+.btn-default{
+    color:white;
+    background-color:green;
+}
+.question-box{
+    border:solid;
+    position:relative;
+    top:40px;
+}
+h3{
+        color:grey;
+    }
+.btn1{
+    position:relative;
+    top:100px;
+    padding:1.5px;
+}
+
+.btn2{
+    position:relative;
+    top:120px;
+    padding:1.5px;
+}

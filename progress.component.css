@@ -1,0 +1,15 @@
+#jumbotron{
+    height:65px;
+    background-color:lightgrey;
+    position:relative;
+    top:-15px;
+}
+.footer-tron{
+    position:relative;
+    top:10px;
+}
+.btn-primary{
+    float:right;
+position:relative;
+top:-47px;
+}
